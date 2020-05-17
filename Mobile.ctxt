@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mobile
+comment0.text=\r\n\ Trieda\ sl\u00FA\u017Ei\ na\ spracovanie\ \u00FAdajov\ o\ mobile\r\n
+comment1.params=id\ price\ weight\ name\ displayResolution\ ramMemory\ internalMemory
+comment1.target=Mobile(int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Kon\u0161truktor\r\n\r\n\ @param\ id\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ id\ tovaru\r\n\ @param\ price\ \ \ \ \ \ \ \ \ \ \ \ \ cena\ tovaru\r\n\ @param\ weight\ \ \ \ \ \ \ \ \ \ \ \ v\u00E1ha\ tovaru\r\n\ @param\ name\ \ \ \ \ \ \ \ \ \ \ \ \ \ meno\ tovaru\r\n\ @param\ displayResolution\ rozl\u00ED\u0161enie\ dipleja\r\n\ @param\ ramMemory\ \ \ \ \ \ \ \ \ mno\u017Estvo\ ram\ pam\u00E4te\r\n\ @param\ internalMemory\ \ \ \ mno\u017Estvo\ ram\ vn\u00FAtornej\ pam\u00E4te\r\n
+comment2.params=
+comment2.target=java.lang.String\ getStringForWriteToFile()
+comment2.text=\r\n\ funkcia\ sl\u00FA\u017Ei\ na\ generovanie\ stringu\ pre\ z\u00E1pis\ do\ s\u00FAboru\r\n\r\n\ @return\ string\ pre\ z\u00E1pis\ do\ s\u00FAboru\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStringForPrintToConsole()
+comment3.text=\r\n\ funkcia\ sl\u00FA\u017Ei\ na\ generovanie\ stringu\ pre\ v\u00FDpis\ do\ konzoly\r\n\r\n\ @return\ string\ pre\ z\u00E1pis\ do\ konzoly\r\n
+numComments=4

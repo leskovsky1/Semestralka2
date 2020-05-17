@@ -1,0 +1,9 @@
+factory*photo*1*444*888*PhotoCamera3*true*25.3*true
+factory*mobile*5*222*150*Mobil3*1920x1080*2*160
+factory*camera*6*333*800*Camera3*false*true*21.5
+factory*camera*7*888*889*mobilXY*true*false*21.0
+stock*mobile*3*150*150*Mobil2*1920x1080*2*160
+stock*camera*4*450*800*Camera2*true*false*21.5
+stock*photo*2*205*555*PhotoCamera2*true*25.3*true
+shop*camera*8*120*800*Camera1*true*true*21.5
+shop*photo*9*450*555*PhotoCamera1*true*25.3*true

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Factory
+comment0.text=\r\n\ Trieda\ sl\u00FA\u017Ei\ na\ spracovanie\ \u00FAdajov\ o\ tov\u00E1rni\r\n
+comment1.params=
+comment1.target=Factory()
+comment1.text=\r\n\ Kon\u0161truktor\r\n
+comment2.params=
+comment2.target=Product\ createMobile()
+comment2.text=\r\n\ Funkcia\ sl\u00FA\u017Ei\ na\ vytvorenie\ ins\u0165ancie\ typu\ mobile\r\n\r\n\ @return\ vytvorena\ in\u0161tancia\ typu\ mobile\r\n
+comment3.params=
+comment3.target=Product\ createCamera()
+comment3.text=\r\n\ Funkcia\ sl\u00FA\u017Ei\ na\ vytvorenie\ ins\u0165ancie\ typu\ camera\r\n\r\n\ @return\ vytvorena\ in\u0161tancia\ typu\ camera\r\n
+comment4.params=
+comment4.target=Product\ createPhotoCamera()
+comment4.text=\r\n\ Funkcia\ sl\u00FA\u017Ei\ na\ vytvorenie\ ins\u0165ancie\ typu\ photoCamera\r\n\r\n\ @return\ vytvorena\ in\u0161tancia\ typu\ photoCamera\r\n
+numComments=5

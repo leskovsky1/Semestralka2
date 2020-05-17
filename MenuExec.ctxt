@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuExec
+comment0.text=\r\n\ Trieda\ je\ puo\u017E\u00EDvan\u00E1\ na\ z\u00E1kladn\u00E9\ ovl\u00E1danie\ programu\r\n
+comment1.params=
+comment1.target=MenuExec()
+comment1.text=\r\n\ Kon\u0161truktor\r\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ Z\u00E1kladn\u00E1\ funkcia\ na\ ovl\u00E1danie\ cel\u00E9ho\ programu\r\n
+numComments=3

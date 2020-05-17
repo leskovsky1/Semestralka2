@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileFactory
+comment0.text=\r\n\ Trieda\ sa\ pou\u017E\u00EDva\ na\ pr\u00E1cu\ so\ s\u00FAbormi\r\n
+comment1.params=
+comment1.target=FileFactory()
+comment1.text=\r\n\ Kon\u0161truktor\r\n
+comment2.params=nameOfFile\ factoryList\ stockList\ shopList
+comment2.target=void\ writeFile(java.lang.String,\ java.util.List,\ java.util.List,\ java.util.List)
+comment2.text=\r\n\ funkcia\ je\ pu\u017E\u00EDvan\u00E1\ na\ zapisovanie\ do\ s\u00FAboru\r\n\r\n\ @param\ nameOfFile\ \ n\u00E1zov\ s\u00FAboru\ do\ ktor\u00E9ho\ bude\ zapisovan\u00E9\r\n\ @param\ factoryList\ list\ produktov\ ulo\u017Een\u00FDch\ v\ tovarni\r\n\ @param\ stockList\ \ \ list\ produktov\ ulo\u017Een\u00FDch\ v\ sklade\r\n\ @param\ shopList\ \ \ \ list\ produktov\ ulo\u017Een\u00FDch\ v\ obchode\r\n
+comment3.params=nameOfFile
+comment3.target=java.util.List\ readFile(java.lang.String)
+comment3.text=\r\n\ funkcia\ je\ pou\u017E\u00EDvan\u00E1\ na\ \u010D\u00EDtanie\ zo\ s\u00FAboru\r\n\r\n\ @param\ nameOfFile\ n\u00E1zov\ s\u00FAboru\ z\ ktor\u00E9ho\ bud\u00FA\ \u010D\u00EDtan\u00E9\ \u00FAdaje\r\n\ @return\ list\ kde\ na\ indexe\ 0\ je\ list\ produktov\ pre\ obchod,\ 1\ list\ produktov\ pre\ sklad,\ 2\ list\ produktov\ pre\ tovaren\r\n
+numComments=4

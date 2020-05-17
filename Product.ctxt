@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ Trieda\ sl\u00FA\u017Ei\ na\ spracovanie\ \u00FAdajov\ o\ produkte\r\n
+comment1.params=id\ price\ weight\ name
+comment1.target=Product(int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Kon\u0161truktor\r\n\r\n\ @param\ id\ \ \ \ \ id\ tovaru\r\n\ @param\ price\ \ cena\ tovaru\r\n\ @param\ weight\ v\u00E1ha\ tovaru\r\n\ @param\ name\ \ \ meno\ tovaru\r\n
+comment2.params=
+comment2.target=int\ getId()
+comment2.text=\r\n\ Funkcia\ vr\u00E1ti\ id\ tovaru\r\n\r\n\ @return\ id\ tovaru\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStringForWriteToFile()
+comment3.text=\r\n\ funkcia\ sl\u00FA\u017Ei\ na\ generovanie\ stringu\ pre\ z\u00E1pis\ do\ s\u00FAboru\r\n\r\n\ @return\ string\ pre\ z\u00E1pis\ do\ s\u00FAboru\r\n
+comment4.params=
+comment4.target=java.lang.String\ getStringForPrintToConsole()
+comment4.text=\r\n\ funkcia\ sl\u00FA\u017Ei\ na\ generovanie\ stringu\ pre\ v\u00FDpis\ do\ konzoly\r\n\r\n\ @return\ string\ pre\ z\u00E1pis\ do\ konzoly\r\n
+comment5.params=
+comment5.target=int\ getWeight()
+comment5.text=\r\n\ Funkcia\ vr\u00E1ti\ v\u00E1hu\ tovaru\r\n\r\n\ @return\ v\u00E1hu\ tovaru\r\n
+numComments=6

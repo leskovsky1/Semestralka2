@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Camera
+comment0.text=\r\n\ Trieda\ sl\u00FA\u017Ei\ na\ spracovanie\ \u00FAdajov\ o\ kamere\r\n
+comment1.params=id\ price\ weight\ name\ light\ mic\ cameraResolution
+comment1.target=Camera(int,\ int,\ int,\ java.lang.String,\ boolean,\ boolean,\ double)
+comment1.text=\r\n\ Kon\u0161truktor\r\n\r\n\ @param\ id\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ id\ tovaru\r\n\ @param\ price\ \ \ \ \ \ \ \ \ \ \ \ cena\ tovaru\r\n\ @param\ weight\ \ \ \ \ \ \ \ \ \ \ v\u00E1ha\ tovaru\r\n\ @param\ name\ \ \ \ \ \ \ \ \ \ \ \ \ meno\ tovaru\r\n\ @param\ light\ \ \ \ \ \ \ \ \ \ \ \ vstavan\u00E9\ svetlo\r\n\ @param\ mic\ \ \ \ \ \ \ \ \ \ \ \ \ \ vstaven\u00FD\ mikrofon\r\n\ @param\ cameraResolution\ rozl\u00ED\u0161enie\ kamery\r\n
+comment2.params=
+comment2.target=java.lang.String\ getStringForWriteToFile()
+comment2.text=\r\n\ funkcia\ sl\u00FA\u017Ei\ na\ generovanie\ stringu\ pre\ z\u00E1pis\ do\ s\u00FAboru\r\n\r\n\ @return\ string\ pre\ z\u00E1pis\ do\ s\u00FAboru\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStringForPrintToConsole()
+comment3.text=\r\n\ funkcia\ sl\u00FA\u017Ei\ na\ generovanie\ stringu\ pre\ v\u00FDpis\ do\ konzoly\r\n\r\n\ @return\ string\ pre\ z\u00E1pis\ do\ konzoly\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\r\n\ Trieda\ sl\u00FA\u017Ei\ na\ spracovanie\ \u00FAdajov\ o\ obchode\r\n
+comment1.params=
+comment1.target=Shop()
+comment1.text=\r\n\ Kon\u0161truktor\r\n
+comment2.params=
+comment2.target=void\ sell()
+comment2.text=\r\n\ Funkcia\ sl\u00FA\u017Ei\ na\ predanie\ produktu\r\n
+numComments=3
